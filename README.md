@@ -16,7 +16,7 @@ To run this project locally, follow these steps:
 
 ## Prerequisites
 - Node.js
-- npm or yarn
+- Tailwind CSS
 
 ## Steps
 
